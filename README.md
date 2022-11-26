@@ -3,12 +3,6 @@
 
 A professional Discord-Server Nuker
 
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
 ## Authors
 
 - [@CorruptedBytes](https://www.github.com/pserveryt)
@@ -30,3 +24,7 @@ then
   node .
 ```
 
+
+## Badges
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
